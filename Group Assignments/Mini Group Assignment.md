@@ -1,7 +1,7 @@
 
 ### Project title and initial proposal
 For our project, we initially wanted to explore How living near freeways impacts hospitalizations rates in LA City? This included looking at air pollution rates in areas near freeways as they relate to hospitalization rates, specifically respiratory illnesses.
-[Link](https://github.com/jinglan3089/up206A_Jinglan-Nour/blob/main/Group%20Assignments/Project%20Proposal.md)
+[Link to Proposal](https://github.com/jinglan3089/up206A_Jinglan-Nour/blob/main/Group%20Assignments/Project%20Proposal.md)
 
 ### Roles
 For now, Nour will be focusing on median income level and Jinglan will be focusing on race across the neighborhoods we want to study. We also want to explore education level, college population, and presence of grocery stores. We will divide the roles by college towns as we go. 
@@ -15,6 +15,7 @@ For our new research project, we will look at the relationship of the distributi
 
 ### Data update
 Our data so far includes census data looking at median income in LA City and census data looking at race distribution in LA City. Additionally, we have data mapping freeways in LA City, air quality index, and car volumes (annual average daily traffic) in Los Angeles County in 2019. 
+
 With our transition to a new project, we will be using the census data we found looking at median income and race in LA City. Our plan is to expand on that data to LA County and include data that looks at the location of colleges and college towns and mapping different types of grocery stores across the county. 
 Concerns: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 
