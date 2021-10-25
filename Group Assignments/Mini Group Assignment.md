@@ -1,7 +1,7 @@
 
 ### Project title and initial proposal
 For our project, we initially wanted to explore How living near freeways impacts hospitalizations rates in LA City? This included looking at air pollution rates in areas near freeways as they relate to hospitalization rates, specifically respiratory illnesses.
-[Link]https://github.com/jinglan3089/up206A_Jinglan-Nour/blob/main/Group%20Assignments/Project%20Proposal.md
+[Link](https://github.com/jinglan3089/up206A_Jinglan-Nour/blob/main/Group%20Assignments/Project%20Proposal.md)
 
 ### Roles
 For now, Nour will be focusing on median income level and Jinglan will be focusing on race across the neighborhoods we want to study. We also want to explore education level, college population, and presence of grocery stores. We will divide the roles by college towns as we go. 
