@@ -10,7 +10,7 @@ This project is important because it is a food inequality (social) issue. From w
 
 For our spatial scope, we will look at LA County. We wanted to study grocery store distribution and location of colleges in LA County since it contains a wide demographic range for income, race, education level among college students. Also, LA county has a large variety of college types (public/private/community colleges) and sizes. Due to the size and demographic distribution of LA County, it also contains a variety of grocery store chains from lower end to high end stores. Therefore, our spatial scope will provide a diverse sample pool for the project.
 
-### Datasources with links: 
+Datasources with links: 
 One source we are using to identify college and university locations across LA County is the LA County geohub - https://geohub.lacity.org/datasets/lacounty::colleges-and-universities/about
 Another source we are using is the Historical SNAP retailer locator data from USDA (link: https://www.fns.usda.gov/snap/retailer/historicaldata )
 Census Reporter:
